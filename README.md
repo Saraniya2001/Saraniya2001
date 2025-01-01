@@ -2,7 +2,7 @@
 **Aspiring Software Developer | ICT Undergraduate | Tech Enthusiast**  
 
 🌱 **Currently learning**: Flutter, React, and advanced software technologies.  
-⚡ **Skills**: Web development, mobile app development, and software design.  
+⚡ **Skills**: Web development, Responsive development, and software design.  
 🎯 **Goals**: To innovate and build impactful software solutions.  
 
 ---
