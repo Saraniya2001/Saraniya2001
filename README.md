@@ -2,7 +2,7 @@
 
 🎓 **Undergraduate in Information Communication Technology**  
 🌟 Specialized in **Software Technology | Full Stack Development**  
-📍  Jaffna, Sri Lanka.  
+ 📍 Jaffna, Sri Lanka.  
 
 ---
 
@@ -36,8 +36,10 @@
 
 ### 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=saraniya2001&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saraniya2001&layout=compact&theme=radical)
+
 
 ---
 
 ### 🌟 Fun Fact
-🌟 My GitHub is like my digital garden — every commit is a seed, and my projects grow like trees. Some thrive, some wither, but all leave me with lessons to nurture the next!
+💡 My GitHub is like my digital garden — every commit is a seed, and my projects grow like trees. Some thrive, some wither, but all leave me with lessons to nurture the next!
