@@ -2,7 +2,7 @@
 
 🎓 **Undergraduate in Information Communication Technology**  
 🌟 Specialized in **Software Technology | Full Stack Development**  
-📍 Jaffna, Sri Lanka.  
+📍  Jaffna, Sri Lanka.  
 
 ---
 
