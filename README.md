@@ -3,10 +3,6 @@
 🎓 **Specialized in Software Technology | Full Stack Development**
 📍 **Sri Lanka**  
 
-🌱 **Currently learning**: Flutter, React, and advanced software technologies.  
-⚡ **Skills**: Web development, Responsive development, and software design.  
-🎯 **Goals**: To innovate and build impactful software solutions.  
-
 ---
 
 ### 📫 Get in Touch  
