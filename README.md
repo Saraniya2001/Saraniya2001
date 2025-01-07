@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Saraniya!  
-🌟 Undergraduate in Information Communication Technology
-🎓 Specialized in Software Technology | Full Stack Development
-📍 Sri Lanka**  
+🌟 **Undergraduate in Information Communication Technology**
+🎓 **Specialized in Software Technology | Full Stack Development**
+📍 **Sri Lanka**  
 
 🌱 **Currently learning**: Flutter, React, and advanced software technologies.  
 ⚡ **Skills**: Web development, Responsive development, and software design.  
@@ -10,7 +10,7 @@
 ---
 
 ### 📫 Get in Touch  
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)  
+- LinkedIn: (https://linkedin.com/in/your-profile)  
 - GitHub: [Maheni's GitHub](https://github.com/your-username)  
 
 ---
