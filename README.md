@@ -8,7 +8,7 @@
 
 ### 📫 Connect with Me
 - 📧 Email: [ssaraniya2001@gmail.com](mailto:ssaraniya2001@example.com)  
-- 🌐 Portfolio: [My Portfolio](#)  
+- 🌐 Portfolio: [My Portfolio](https://saraniya2001.github.io/My-Portfolio/)  
 - 🔗 LinkedIn: [Sinnathurai Saraniya](https://www.linkedin.com/in/saraniya2001/)  
 
 ---
