@@ -22,6 +22,8 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=black&style=flat)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat)
+
 
 #### **Databases**
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
@@ -42,4 +44,4 @@
 ---
 
 ### 🌟 Fun Fact
-💡 My GitHub is like my digital garden — every commit is a seed, and my projects grow like trees. Some thrive, some wither, but all leave me with lessons to nurture the next!
+💡 My GitHub is like my digital garden — every commit is a seed and my projects grow like trees. Some thrive, some wither but all leave me with lessons to nurture the next!
